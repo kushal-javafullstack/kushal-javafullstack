@@ -1,23 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:7C3AED&height=200&section=header&text=Kushal%20K%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=52" width="100%"/>
-
-<br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,50:2563EB,100:7C3AED&height=210&section=header&text=Kushal%20K%20S&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=33&desc=Java%20Full%20Stack%20Developer&descSize=20&descAlignY=52" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Spring+Boot+%2B+React+Developer;Application+Security+Enthusiast;Building+secure%2C+scalable+web+apps;Open+to+Software+Engineer+roles&font=Fira+Code&center=true&width=600&height=45&color=2563EB&vCenter=true&size=22" alt="Typing SVG"/>
 
+<br/>
+
+<a href="https://www.linkedin.com/in/kushal-ks"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:kushalks132@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Hassan,%20Karnataka-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white"/>
+
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/kushal-ks" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:kushalks132@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<img src="https://img.shields.io/badge/Hassan,%20Karnataka-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Open%20to%20Work-success?style=for-the-badge&logo=briefcase&logoColor=white" alt="Open to Work"/>
+<a href="#-about-me">About</a> •
+<a href="#-experience">Experience</a> •
+<a href="#-featured-projects">Projects</a> •
+<a href="#%EF%B8%8F-tech-stack">Tech Stack</a> •
+<a href="#-github-activity">Activity</a>
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:7C3AED&height=6&width=100%" width="100%"/>
 
 ## 🧭 About Me
 
@@ -31,7 +35,7 @@ focus: application security & clean architecture
 currently_learning: [Spring Security internals, JWT & session hardening]
 ```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:7C3AED&height=6&width=100%" width="100%"/>
 
 ## 💼 Experience
 
@@ -57,7 +61,7 @@ currently_learning: [Spring Security internals, JWT & session hardening]
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:7C3AED&height=6&width=100%" width="100%"/>
 
 ## 🚀 Featured Projects
 
@@ -100,7 +104,7 @@ Currently building out new projects — check back or follow along on GitHub for
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:7C3AED&height=6&width=100%" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -117,7 +121,7 @@ Currently building out new projects — check back or follow along on GitHub for
 | **Tools** | Git · GitHub · Docker · Maven · VS Code · Eclipse · Postman |
 | **Core Concepts** | OOP · DBMS · MVC · RESTful Design · Secure Coding · SOLID · Unit Testing |
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:7C3AED&height=6&width=100%" width="100%"/>
 
 ## 🎓 Education & Certifications
 
@@ -127,21 +131,26 @@ Currently building out new projects — check back or follow along on GitHub for
 <img src="https://img.shields.io/badge/Generative_AI-Google_Cloud_(Simplilearn)-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/><br/>
 <img src="https://img.shields.io/badge/Soft_Skills_%26_MS_Office-10_Seconds-6B7280?style=flat-square&logo=microsoftoffice&logoColor=white"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:7C3AED&height=3&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:2563EB,100:7C3AED&height=6&width=100%" width="100%"/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=kushal-javafullstack&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" alt="Kushal's GitHub stats" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-javafullstack&layout=compact&theme=default&hide_border=true&cache_seconds=1800" alt="Top languages" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=kushal-javafullstack&show_icons=true&theme=default&hide_border=true&cache_seconds=1800" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kushal-javafullstack&layout=compact&theme=default&hide_border=true&cache_seconds=1800" height="170"/>
 </div>
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=kushal-javafullstack&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=kushal-javafullstack&theme=flat&no-frame=true&column=4&margin-w=10&margin-h=10"/>
+</div>
+
+<!-- snake animation: generated by GitHub Actions once you add the workflow below -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/kushal-javafullstack/kushal-javafullstack/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
 </div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=kushal-javafullstack&style=for-the-badge&color=2563EB&label=Profile+Views" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=kushal-javafullstack&style=for-the-badge&color=2563EB&label=Profile+Views"/>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:2563EB,100:1E3A8A&height=150&section=footer" width="100%"/>
